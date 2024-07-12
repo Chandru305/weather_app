@@ -19,4 +19,4 @@ Generate and copy your API key.
 
 Make API Requests:
 Use the API key to make HTTP requests to the OpenWeatherMap API.
-Replace YOUR_API_KEY with your actual API key and London with the desired city name
+Replace YOUR_API_KEY with your actual API key.
